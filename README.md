@@ -1,2 +1,2 @@
 # pure_html
-PURE HTML PROJECT
+PURE PROJECT
